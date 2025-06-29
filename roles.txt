@@ -9,7 +9,7 @@ Carson, Frontend:
     - Axios or Fetch to talk to FastAPI or Flask backend
   etc..
 
-Majock:
+Majock, Backend:
   Language:
     - Python
   Framework:
