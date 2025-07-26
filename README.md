@@ -47,7 +47,7 @@ If you ever wanted though about having a 'coffee chat' with a cracked LinkedIn u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/connectin.git
+git clone https://github.com/majockbim/connectin.git
 cd connectin
 ```
 
@@ -131,3 +131,5 @@ connectin/
 - Mistral AI for the language model
 - LinkedIn for profile data
 - FastAPI and Playwright communities
+
+Honourable Mention: [Junior Assani](https://github.com/juniorassani) for creating the first and only pull request.
