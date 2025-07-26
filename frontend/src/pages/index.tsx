@@ -1,6 +1,1 @@
-// main page 
-
-fkjdskjfnsdkjfjkdfsdf
-
-Highlight
-hello
+// main page
