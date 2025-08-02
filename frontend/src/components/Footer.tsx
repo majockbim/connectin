@@ -1,1 +1,0 @@
-// up to you if you want a footer or not
