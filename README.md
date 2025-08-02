@@ -68,7 +68,7 @@ LINKEDIN_PASSWORD=your_linkedin_password
 
 5. Start the backend server:
 ```bash
-cd backend
+cd connectin
 python -m backend.main
 ```
 
