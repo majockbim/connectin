@@ -32,9 +32,7 @@ If you ever wanted though about having a 'coffee chat' with a cracked LinkedIn u
 - LinkedIn scraping implementation
 
 **Frontend Developer**: [Carson Carrasco](https://github.com/CarsonCarrasco)
-- User interface design
-- Frontend application development
-- User experience optimization
+- [info here]
 
 ## Getting Started
 
@@ -71,12 +69,13 @@ LINKEDIN_PASSWORD=your_linkedin_password
 5. Start the backend server:
 ```bash
 cd backend
-python main.py
+python -m backend.main
 ```
 
 6. Frontend setup:
 ```bash
 cd frontend
+npm run dev
 
 # frontend installation steps here
 ```
@@ -105,13 +104,14 @@ Content-Type: application/json
 connectin/
 ├── backend/
 │   ├── app/
+│   ├── prompt_engine.py
 │   │   ├── models/
 │   │   │   └── mistral-7b-instruct-v0.1.Q4_K_M.gguf
 │   │   └── utils/
 │   │       └── scraper.py
 │   ├── main.py
-│   ├── prompt_engine.py
 │   └── requirements.txt
+│
 ├── frontend/
 │   └── [Frontend files]
 └── README.md
