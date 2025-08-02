@@ -70,13 +70,14 @@ LINKEDIN_PASSWORD=your_linkedin_password
 
 5. Start the backend server:
 ```bash
-cd backend
-python main.py
+cd connectin
+python -m backend.main
 ```
 
 6. Frontend setup:
 ```bash
 cd frontend
+npm run dev
 
 # frontend installation steps here
 ```
@@ -105,12 +106,12 @@ Content-Type: application/json
 connectin/
 ├── backend/
 │   ├── app/
+│   ├── prompt_engine.py
 │   │   ├── models/
 │   │   │   └── mistral-7b-instruct-v0.1.Q4_K_M.gguf
 │   │   └── utils/
 │   │       └── scraper.py
 │   ├── main.py
-│   ├── prompt_engine.py
 │   └── requirements.txt
 ├── frontend/
 │   └── [Frontend files]
