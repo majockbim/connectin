@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from app.utils.scraper import extract_linkedin_text
-from app.prompt_engine import generate_questions  # Fixed import path
+from .app.utils.scraper import extract_linkedin_text
+from .app.prompt_engine import generate_questions  # Fixed import path
 
 app = FastAPI()
 
