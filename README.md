@@ -1,4 +1,4 @@
-# Connectin
+# ConnectIn
 
 ## About
 
