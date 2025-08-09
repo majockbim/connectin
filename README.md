@@ -130,6 +130,6 @@ connectin/
 
 - [Mistral AI](https://mistral.ai) for the language model
 - LinkedIn for profile data
-- FastAPI and [Playwright](https://playwright.dev) communities
+- [FastAPI](https://fastapi.tiangolo.com) and [Playwright](https://playwright.dev) communities
 
-Honourable Mention: [Junior Assani](https://github.com/juniorassani) for creating the first and only pull request.
+Honourable Mention: [Junior Assani](https://github.com/juniorassani) for creating the first (and only) pull request.
