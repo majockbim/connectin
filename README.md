@@ -129,7 +129,7 @@ connectin/
 ## Acknowledgments
 
 - [Mistral AI](https://mistral.ai) for the language model
-- LinkedIn for profile data
+- [LinkedIn](https://www.linkedin.com/in/majockbim) for profile data
 - [FastAPI](https://fastapi.tiangolo.com) and [Playwright](https://playwright.dev) communities
 
 Honourable Mention: [Junior Assani](https://github.com/juniorassani) for creating the first (and only) pull request.
