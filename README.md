@@ -128,8 +128,8 @@ connectin/
 
 ## Acknowledgments
 
-- Mistral AI for the language model
+- [Mistral AI](https://mistral.ai) for the language model
 - LinkedIn for profile data
-- FastAPI and Playwright communities
+- FastAPI and [Playwright](https://playwright.dev) communities
 
 Honourable Mention: [Junior Assani](https://github.com/juniorassani) for creating the first and only pull request.
