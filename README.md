@@ -38,7 +38,6 @@ If you ever wanted though about having a 'coffee chat' with a cracked LinkedIn u
 
 ### Prerequisites
 
-- Python 3.8+
 - LinkedIn account credentials
 
 ### Installation
