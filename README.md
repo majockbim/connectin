@@ -21,18 +21,17 @@ If you ever wanted though about having a 'coffee chat' with a cracked LinkedIn u
 - BeautifulSoup for HTML parsing
 
 ### Frontend
-- [frontend technologies here]
+- Next.js (TypeScript)
+- Tailwind CSS
 
 
 ### Developers
 
-**Backend Developer**: [Majock Bim](https://github.com/majockbim)
+**Lead Developer**: [Majock Bim](https://github.com/majockbim)
+- Full-stack architecture
 - API development
 - AI model integration
 - LinkedIn scraping implementation
-
-**Frontend Developer**: [Carson Carrasco](https://github.com/CarsonCarrasco)
-- [info here]
 
 ## Getting Started
 
@@ -74,9 +73,8 @@ python -m backend.main
 6. Frontend setup:
 ```bash
 cd frontend
+npm install
 npm run dev
-
-# frontend installation steps here
 ```
 
 ## API Documentation
@@ -103,16 +101,14 @@ Content-Type: application/json
 connectin/
 ├── backend/
 │   ├── app/
-│   ├── prompt_engine.py
 │   │   ├── models/
-│   │   │   └── mistral-7b-instruct-v0.1.Q4_K_M.gguf
 │   │   └── utils/
-│   │       └── scraper.py
 │   ├── main.py
 │   └── requirements.txt
-│
 ├── frontend/
-│   └── [Frontend files]
+│   ├── pages/
+│   ├── styles/
+│   └── tsconfig.json
 └── README.md
 ```
 
